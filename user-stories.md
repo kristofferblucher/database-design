@@ -1,4 +1,5 @@
-# User Storie
+# User Stories
+
 -As a customer, so I can receive my tickets, I want to provide my contact information.
 
 -As a customer, so I can decide which movie I want to watch, I want to see a list of movies.
